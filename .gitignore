@@ -1,3 +1,5 @@
+venv
+staticfiles
 *.log
 *.pot
 *.pyc
